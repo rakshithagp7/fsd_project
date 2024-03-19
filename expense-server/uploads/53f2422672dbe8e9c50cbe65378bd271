@@ -1,0 +1,41 @@
+#CornerMart 
+
+##Types of users(actors)
+
+*admin
+*shopkeeper
+*resident
+
+user story - As a [user] i want to do [action] because of a [reason]
+
+## Admin
+
+1.As an Admin i want to see a list of residents in my society
+2.AS a admin i want to approve a resident/s when they register ( enable and disable)
+
+3.As a admin i want to create and manage stores in my society 
+4.As an admin i want to create login details for the store owners 
+5.As an admin i want to manage residents accounts 
+6. AS an admin i want to search resident by name or mobile because of ease access.
+
+
+## Resident 
+
+1.As a resident i want regiter myself because to access the application 
+2. As a resident i want to login to the system because i want to see the avaiablity of products in the stores 
+3. As a resident i want to select a store  because i want see the availability of products in that store
+4. i want to search for a product because i need to purchase 
+5. want to be notified when the product is available 
+6. As a resident i want to see by profile info 
+7. As a resident i want to logout from the application
+8.As a resident i want to be able to edit my profile, because i want to be in a position to change.
+
+## Store Keeper
+1.As a shopkeeper i want to login the application 
+2. As a shop keeper i want to change the products avaiable
+3. AS a shopkeeper i want to change the products avaiable in my store 
+4. AS a shop keeper i want to change the availabiliy to stock from or availablity of products in that store ( in stock or not in Stock)
+5. As a shop keeper i want to know how many residents are in the waiting list 
+because this gives me an idea of how much process
+6. AS i shopkeeper i want to toggle the availbility ( in stock/ out of Stock) of a product
+
